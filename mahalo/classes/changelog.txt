@@ -1,0 +1,34 @@
+= 1.0.0 =
+* Initial release.
+
+= 1.0.1 =
+* Update - Site Branding
+* Update - Dashboard notification add icon
+* Update - Native image widget on fullwidth homepage widgetarea
+
+= 1.0.2 - Mar 03 2023 =
+* Update - RTL support
+* Fixed  - Various small fixes.
+
+= 1.0.3 - May 08 2023 =
+* Update - 6.2 Compatibility
+* Fixed  - Various small fixes.
+
+= 1.0.4 - June 27 2023 =
+* Update - Small Design adjustments
+
+= 1.0.5 - Sep 07 2023 =
+* Update  - 6.3 compatibility
+* Update  - Twitter Icon Change
+* Update  - PHP 8.0 and upwards compatibility
+* Fixed   - Category Background Color option
+
+= 1.0.6 - Sep 08 2023 =
+* Fixed   - home-page-youtube-video widget
+
+= 1.0.7 - Nov 01 2023 =
+* Update  - Pagination
+
+= 1.0.8 - Dec 11 2023 =
+* New  - Discord Social Icon
+* Update  - 6.4 Compatibility
